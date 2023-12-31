@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389138215008",
+    "project_id": "ai-mobileapp-7c28d",
+    "storage_bucket": "ai-mobileapp-7c28d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389138215008:android:b926b33c58d5d01cf65305",
+        "android_client_info": {
+          "package_name": "com.example.ai_mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnh8h5izgtP_4CcH4DzIGfqBZUMC-C7rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
