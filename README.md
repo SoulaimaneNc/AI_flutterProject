@@ -1,16 +1,31 @@
-# ai_mobileapp
+# Flutter Image Recognition and Activity Management App
 
-A new Flutter project.
+## Description
+This Flutter application combines image recognition and activity management features. It allows users to log in, authenticate through Firestore, view a list of activities fetched from Firestore with filtering options by category, add activities, and import images. Additionally, users can manage their profiles by editing information and logging out.
 
-## Getting Started
+## Tested Platforms
+- Android (Emulator)
 
-This project is a starting point for a Flutter application.
+## Features
+1. **User Authentication:**
+   - Users can log in using their email and password.
+   - Authentication is handled through Firestore.
 
-A few resources to get you started if this is your first Flutter project:
+2. **Activity List:**
+   - Displays a list of activities retrieved from Firestore.
+   - Filter activities by category.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **Activity Management:**
+   - Users can add new activities.
+   - Import images for activities.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. **User Profile:**
+   - Users have a profile where they can view and edit their information.
+   - Option to log out.
+
+## Login Credentials
+- Email: Soulaymanencir2@gmail.com
+- Password: marrakech.12
+
+
+
